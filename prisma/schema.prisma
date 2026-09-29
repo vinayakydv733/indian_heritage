@@ -1,0 +1,138 @@
+datasource db {
+  provider   = "postgresql"
+  url        = env("DATABASE_URL")
+  extensions = [vector]
+}
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions", "typedSql"]
+}
+
+// User model for NextAuth
+model User {
+  id            String    @id @default(cuid())
+  name          String?
+  email         String?   @unique
+  emailVerified DateTime?
+  image         String?
+  accounts      Account[]
+  sessions      Session[]
+  contributions Contribution[]
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String? @db.Text
+  access_token      String? @db.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @db.Text
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+// Dharohar Core Models
+model HeritageSite {
+  id           String   @id @default(cuid())
+  name         String
+  slug         String   @unique
+  state        String
+  district     String
+  category     String
+  description  String   @db.Text
+  significance String   @db.Text
+  latitude     Float?
+  longitude    Float?
+  status       String   @default("VERIFIED") // PENDING, MODERATION, VERIFIED
+  
+  documents    HeritageDocument[]
+  contributions Contribution[]
+  
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+// Sources are First-Class Entities
+model Source {
+  id           String   @id @default(cuid())
+  organization String
+  title        String
+  url          String?
+  sourceType   String   // Official, Community, Academic, etc.
+  accessedAt   DateTime @default(now())
+  license      String?
+  
+  documents    HeritageDocument[]
+}
+
+// RAG Pipeline: Document -> Chunk -> Embedding
+model HeritageDocument {
+  id           String   @id @default(cuid())
+  heritageId   String
+  sourceId     String
+  title        String
+  content      String   @db.Text
+  language     String   @default("en")
+  version      Int      @default(1)
+  
+  heritage     HeritageSite @relation(fields: [heritageId], references: [id], onDelete: Cascade)
+  source       Source       @relation(fields: [sourceId], references: [id])
+  chunks       DocumentChunk[]
+}
+
+model DocumentChunk {
+  id           String   @id @default(cuid())
+  documentId   String
+  chunkIndex   Int
+  text         String   @db.Text
+  
+  // pgvector extension mapping
+  embedding    Unsupported("vector(768)")?
+  
+  metadata     Json?
+  
+  document     HeritageDocument @relation(fields: [documentId], references: [id], onDelete: Cascade)
+}
+
+// Community Submissions via Cloudinary (Direct Upload)
+model Contribution {
+  id           String   @id @default(cuid())
+  heritageId   String
+  userId       String
+  title        String
+  content      String   @db.Text
+  mediaUrl     String?  // Cloudinary secure URL
+  mediaType    String?  // image, video, audio
+  status       String   @default("PENDING") // PENDING, REJECTED, VERIFIED
+  createdAt    DateTime @default(now())
+  
+  heritage     HeritageSite @relation(fields: [heritageId], references: [id], onDelete: Cascade)
+  user         User         @relation(fields: [userId], references: [id])
+}

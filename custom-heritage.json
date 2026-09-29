@@ -1,0 +1,277 @@
+[
+  {
+    "id": "seed-1790701123601-dy3k0vatl",
+    "name": "Qutb Minar",
+    "slug": "qutb-minar",
+    "category": "Monuments",
+    "state": "Delhi",
+    "district": "Multiple",
+    "description": "The Qutb Minar, also spelled Qutub Minar and Qutab Minar, is a minaret and victory tower, built during the Delhi sultanate, and comprising the Qutb complex, a UNESCO World Heritage Site in Mehrauli, South Delhi, India. It was mostly built between 1199 and 1220, contains 399 steps, and is one of the most frequented heritage spots in the city. After defeating Prithviraj Chauhan, the last Hindu ruler of Delhi before the Ghurid conquest of the region, Qutab-ud-din Aibak initiated the construction of the victory tower, but only managed to finish the first level. It was to mark the beginning of Islamic rule in the region. Successive dynasties of the Delhi Sultanate continued the construction, and, in 1368, Firuz Shah Tughlaq rebuilt the top parts and added a cupola.\nIt can be compared to the 62-metre all-brick Minaret of Jam in Afghanistan, of c. 1190, which was constructed a decade or so before the probable start of the Delhi tower. The surfaces of both are elaborately decorated with inscriptions and geometric patterns. The Qutb Minar has a shaft that is fluted with \"superb stalactite bracketing under the balconies\" at the top of each stage. In general, minarets were slow to be used in India and are often detached from the main mosque where they exist.",
+    "significance": "The Qutb Minar, also spelled Qutub Minar and Qutab Minar, is a minaret and victory tower, built during the Delhi sultanate, and comprising the Qutb complex, a UNESCO World Heritage Site in Mehrauli, South Delhi, India. It was mostly built between 1199 and 1220, contains 399 steps, and is one of the most frequented heritage spots in the city. After defeating Prithviraj Chauhan, the last Hindu ruler of Delhi before the Ghurid conquest of the region, Qutab-ud-din Aibak initiated the construction of the victory tower, but only managed to finish the first level. It was to mark the beginning of Islamic rule in the region. Successive dynasties of the Delhi Sultanate continued the construction, and, in 1368, Firuz Shah Tughlaq rebuilt the top parts and added a cupola.\nIt can be compared to the 62-metre all-brick Minaret of Jam in Afghanistan, of c. 1190, which was constructed a decade or so before the probable start of the Delhi tower. The surfaces of both are elaborately decorated with inscriptions and geometric patterns. The Qutb Minar has a shaft that is fluted with \"superb stalactite bracketing under the balconies\" at the top of each stage. In general, minarets were slow to be used in India and are often detached from the main mosque where they exist.",
+    "latitude": 28.524355,
+    "longitude": 77.185248,
+    "status": "VERIFIED",
+    "customImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Qutb_Minar_2022.jpg/1280px-Qutb_Minar_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "gallery": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Qutb_Minar_2022.jpg/1280px-Qutb_Minar_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    ],
+    "documents": [
+      {
+        "id": "doc-799638",
+        "source": {
+          "organization": "Wikipedia Foundation",
+          "title": "Open Encyclopedia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "seed-1790701125100-i8hmcq3jy",
+    "name": "Red Fort",
+    "slug": "red-fort",
+    "category": "Monuments",
+    "state": "Delhi",
+    "district": "Multiple",
+    "description": "The Red Fort (Lal Qila in Hindi; Hindi pronunciation: [laːl 'qɪlaː]) is a historic Mughal fort located in the Old Delhi area of Delhi, India. Serving as the main residence of the Mughal emperors, it was commissioned by Emperor Shah Jahan on the 12th of May 1639; the fort was constructed following his decision to shift the Mughal capital from Agra to Delhi. Originally adorned in red and white, the fort's design is attributed to Ustad Ahmad Lahori, the architect of the Taj Mahal. The Red Fort is a prominent example of Mughal architecture from Shah Jahan's reign, combining Persian and Indian architectural styles.\nDuring the invasion by Nadir Shah of the Afsharid Empire in 1739, the fort was plundered and stripped of its artwork and jewels. Following the Indian Rebellion of 1857, many of its marble structures were demolished by the British, although the defensive walls remained largely intact. The fort was later repurposed as a military garrison.\nOn 15 August 1947, the first Prime Minister of India, Jawaharlal Nehru, hoisted the Indian flag above the Lahori Gate, the main entrance of the Red Fort. Since then, the Prime Minister of India has ceremonially raised the national tricolour at the main gate each year on Independence Day, then delivering a nationally broadcast address from its ramparts.\nThe Red Fort, as part of the Red Fort Complex, was recognised as a UNESCO World Heritage Site in 2007.",
+    "significance": "The Red Fort (Lal Qila in Hindi; Hindi pronunciation: [laːl 'qɪlaː]) is a historic Mughal fort located in the Old Delhi area of Delhi, India. Serving as the main residence of the Mughal emperors, it was commissioned by Emperor Shah Jahan on the 12th of May 1639; the fort was constructed following his decision to shift the Mughal capital from Agra to Delhi. Originally adorned in red and white, the fort's design is attributed to Ustad Ahmad Lahori, the architect of the Taj Mahal. The Red Fort is a prominent example of Mughal architecture from Shah Jahan's reign, combining Persian and Indian architectural styles.\nDuring the invasion by Nadir Shah of the Afsharid Empire in 1739, the fort was plundered and stripped of its artwork and jewels. Following the Indian Rebellion of 1857, many of its marble structures were demolished by the British, although the defensive walls remained largely intact. The fort was later repurposed as a military garrison.\nOn 15 August 1947, the first Prime Minister of India, Jawaharlal Nehru, hoisted the Indian flag above the Lahori Gate, the main entrance of the Red Fort. Since then, the Prime Minister of India has ceremonially raised the national tricolour at the main gate each year on Independence Day, then delivering a nationally broadcast address from its ramparts.\nThe Red Fort, as part of the Red Fort Complex, was recognised as a UNESCO World Heritage Site in 2007.",
+    "latitude": 28.65583333,
+    "longitude": 77.24083333,
+    "status": "VERIFIED",
+    "customImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/1280px-Delhi_fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "gallery": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/1280px-Delhi_fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    ],
+    "documents": [
+      {
+        "id": "doc-1681410",
+        "source": {
+          "organization": "Wikipedia Foundation",
+          "title": "Open Encyclopedia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "seed-1790701128003-cpxhii7pb",
+    "name": "Ajanta Caves",
+    "slug": "ajanta-caves",
+    "category": "Monuments",
+    "state": "Maharashtra",
+    "district": "Multiple",
+    "description": "The Ajanta Caves are 30 rock-cut Buddhist cave monuments dating from the second century BCE to about 480 CE in Aurangabad district of Maharashtra state in India. Ajanta Caves are a  UNESCO World Heritage Site. Universally regarded as masterpieces of Buddhist religious art, the caves include paintings and rock-cut sculptures, described as among the finest surviving examples of ancient Indian art, particularly expressive paintings that present emotions through gesture, pose and form.\nThe caves were built in two phases, the first starting around the second century BCE and the second occurring from 400 to 650 CE, according to older accounts, or in a brief period of 460–480 CE according to later scholarship.\nThe Ajanta Caves constitute ancient monasteries (Viharas) and worship-halls (Chaityas) of different Buddhist traditions carved into a 75-metre (246 ft) wall of rock. The caves also present paintings depicting the past lives and rebirths of the Buddha, pictorial tales from Aryasura's Jatakamala, and rock-cut sculptures of Buddhist deities. Textual records suggest that these caves served as a monsoon retreat for monks, as well as a resting site for merchants and pilgrims in ancient India. While vivid colours and mural wall paintings were abundant in Indian history as evidenced by historical records, Caves 1, 2, 16 and 17 of Ajanta form the largest corpus of surviving ancient Indian wall-paintings.\n\nThe Ajanta Caves are mentioned in the memoirs of several medieval-era Chinese Buddhist travelers. They were covered by the jungle until accidentally \"discovered\" and brought to contemporary attention in 1819 by Colonel John Smith during a tiger-hunting expedition on a tiger-hunting party. The caves are located in the rocky northern wall of the U-shaped gorge of the River Waghur, in the Deccan Plateau. Within the gorge are a number of waterfalls, audible from outside the caves when the river is high.",
+    "significance": "The Ajanta Caves are 30 rock-cut Buddhist cave monuments dating from the second century BCE to about 480 CE in Aurangabad district of Maharashtra state in India. Ajanta Caves are a  UNESCO World Heritage Site. Universally regarded as masterpieces of Buddhist religious art, the caves include paintings and rock-cut sculptures, described as among the finest surviving examples of ancient Indian art, particularly expressive paintings that present emotions through gesture, pose and form.\nThe caves were built in two phases, the first starting around the second century BCE and the second occurring from 400 to 650 CE, according to older accounts, or in a brief period of 460–480 CE according to later scholarship.\nThe Ajanta Caves constitute ancient monasteries (Viharas) and worship-halls (Chaityas) of different Buddhist traditions carved into a 75-metre (246 ft) wall of rock. The caves also present paintings depicting the past lives and rebirths of the Buddha, pictorial tales from Aryasura's Jatakamala, and rock-cut sculptures of Buddhist deities. Textual records suggest that these caves served as a monsoon retreat for monks, as well as a resting site for merchants and pilgrims in ancient India. While vivid colours and mural wall paintings were abundant in Indian history as evidenced by historical records, Caves 1, 2, 16 and 17 of Ajanta form the largest corpus of surviving ancient Indian wall-paintings.\n\nThe Ajanta Caves are mentioned in the memoirs of several medieval-era Chinese Buddhist travelers. They were covered by the jungle until accidentally \"discovered\" and brought to contemporary attention in 1819 by Colonel John Smith during a tiger-hunting expedition on a tiger-hunting party. The caves are located in the rocky northern wall of the U-shaped gorge of the River Waghur, in the Deccan Plateau. Within the gorge are a number of waterfalls, audible from outside the caves when the river is high.",
+    "latitude": 20.55333333,
+    "longitude": 75.70027778,
+    "status": "VERIFIED",
+    "customImage": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ajanta_%2863%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ajanta_%2863%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    ],
+    "documents": [
+      {
+        "id": "doc-2642",
+        "source": {
+          "organization": "Wikipedia Foundation",
+          "title": "Open Encyclopedia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "seed-1790701128521-uhxzaqlcl",
+    "name": "Ellora Caves",
+    "slug": "ellora-caves",
+    "category": "Monuments",
+    "state": "Maharashtra",
+    "district": "Multiple",
+    "description": "The Ellora Caves are a UNESCO World Heritage Site in Aurangabad, India. It is one of the largest rock-cut  cave complexes in the world, with artwork dating from AD 600–1000, including Hindu, Buddhist, and Jain caves. The complex is a leading example of Indian rock-cut architecture, and several are not strictly \"caves\" in that they have no roof.  Cave 16 features the largest single monolithic rock excavation in the world, the Kailash temple, a chariot-shaped monument dedicated to the god Shiva. The Kailash temple excavation also features sculptures depicting various Hindu deities as well as relief panels summarizing the two major Hindu epics.\nThere are over 100 caves at the site, all excavated from the basalt cliffs in the Charanandri Hills, 34 of which are open to the public. These consist of 17 Hindu (caves 13–29), 12 Buddhist (caves 1–12) and 5 Jain (caves 30–34) caves, each group representing deities and mythologies prevalent in the 1st millennium CE, as well as monasteries of each respective religion. They were built close to one another and illustrate the religious harmony that existed in ancient India. All of the Ellora monuments were built during the Rashtrakuta dynasty (r. 753-982 AD), which constructed part of the Hindu and Buddhist caves, and the Yadava dynasty (c. 1187–1317), which constructed a number of the Jain caves. Funding for the construction of the monuments was provided by royalty, traders, and wealthy people from the region.\nAlthough the caves served as temples and a rest stop for pilgrims, the site's location on an ancient South Asian trade route also made it an important commercial centre in the Deccan region. It is 29 km (18 mi) northwest of Aurangabad and about 300 km (190 mi) east-northeast of Mumbai. Today, the Ellora Caves, along with the nearby Ajanta Caves, are a major tourist attraction in the Marathwada region of Maharashtra and a protected monument under the Archaeological Survey of India (ASI).",
+    "significance": "The Ellora Caves are a UNESCO World Heritage Site in Aurangabad, India. It is one of the largest rock-cut  cave complexes in the world, with artwork dating from AD 600–1000, including Hindu, Buddhist, and Jain caves. The complex is a leading example of Indian rock-cut architecture, and several are not strictly \"caves\" in that they have no roof.  Cave 16 features the largest single monolithic rock excavation in the world, the Kailash temple, a chariot-shaped monument dedicated to the god Shiva. The Kailash temple excavation also features sculptures depicting various Hindu deities as well as relief panels summarizing the two major Hindu epics.\nThere are over 100 caves at the site, all excavated from the basalt cliffs in the Charanandri Hills, 34 of which are open to the public. These consist of 17 Hindu (caves 13–29), 12 Buddhist (caves 1–12) and 5 Jain (caves 30–34) caves, each group representing deities and mythologies prevalent in the 1st millennium CE, as well as monasteries of each respective religion. They were built close to one another and illustrate the religious harmony that existed in ancient India. All of the Ellora monuments were built during the Rashtrakuta dynasty (r. 753-982 AD), which constructed part of the Hindu and Buddhist caves, and the Yadava dynasty (c. 1187–1317), which constructed a number of the Jain caves. Funding for the construction of the monuments was provided by royalty, traders, and wealthy people from the region.\nAlthough the caves served as temples and a rest stop for pilgrims, the site's location on an ancient South Asian trade route also made it an important commercial centre in the Deccan region. It is 29 km (18 mi) northwest of Aurangabad and about 300 km (190 mi) east-northeast of Mumbai. Today, the Ellora Caves, along with the nearby Ajanta Caves, are a major tourist attraction in the Marathwada region of Maharashtra and a protected monument under the Archaeological Survey of India (ASI).",
+    "latitude": 20.0268,
+    "longitude": 75.1771,
+    "status": "VERIFIED",
+    "customImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1000&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "documents": [
+      {
+        "id": "doc-404247",
+        "source": {
+          "organization": "Wikipedia Foundation",
+          "title": "Open Encyclopedia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "seed-1790701128979-azahkgkb4",
+    "name": "Konark Sun Temple",
+    "slug": "konark-sun-temple",
+    "category": "Monuments",
+    "state": "Odisha",
+    "district": "Multiple",
+    "description": "Konark Sun Temple is a 13th-century CE Hindu Sun temple at Konark about 35 kilometres (22 mi) northeast from Puri city on the coastline in Puri district, Odisha, India. The temple is attributed to king Narasingha Deva I of the Eastern Ganga dynasty about 1250 CE. Dedicated to the Hindu Sun-god Surya, it reflects the pinnacle of Kalingan architecture and artistic excellence, what remains of the temple complex has the appearance of a 30-metre (100 ft) high chariot with immense wheels and horses, all carved from stone. Once over 61 metres (200 ft) high, much of the temple is now in ruins, in particular the large shikara tower over the sanctuary; at one time this rose much higher than the mandapa that remains. The structures and elements that have survived are famed for their intricate artwork, iconography, and themes, including erotic kama and mithuna scenes. Also called the Surya Devalaya, it is a classic illustration of the Odisha style of Architecture or Kalinga architecture.\nThe cause of the destruction of the Konark temple is unclear and still remains a source of controversy. Theories range from natural damage to deliberate destruction of the temple in the course of being sacked several times by Muslim armies between the 15th and 17th centuries particularly by Sultan Sulaiman Karrani (Kalapahaṛ) when he invaded Orissa during 1508 . This temple was called the \"Black Pagoda\" in European sailor accounts as early as 1676 because it looked like a great tiered tower which appeared black. Similarly, the Jagannath Temple in Puri was called the \"White Pagoda\". Both temples served as important landmarks for sailors in the Bay of Bengal. The temple that exists today was partially restored by the conservation efforts of British India-era archaeological teams, But Many idols and carvings were also shifted to the British Museum during the british period. Declared a UNESCO World Heritage Site in 1984, it remains a major pilgrimage site for Hindus, who gather here every year for the Chandrabhaga Mela around the month of February.\nKonark Sun Temple is depicted on the reverse side of the Indian currency note of 10 rupees to signify its importance to Indian cultural heritage.",
+    "significance": "Konark Sun Temple is a 13th-century CE Hindu Sun temple at Konark about 35 kilometres (22 mi) northeast from Puri city on the coastline in Puri district, Odisha, India. The temple is attributed to king Narasingha Deva I of the Eastern Ganga dynasty about 1250 CE. Dedicated to the Hindu Sun-god Surya, it reflects the pinnacle of Kalingan architecture and artistic excellence, what remains of the temple complex has the appearance of a 30-metre (100 ft) high chariot with immense wheels and horses, all carved from stone. Once over 61 metres (200 ft) high, much of the temple is now in ruins, in particular the large shikara tower over the sanctuary; at one time this rose much higher than the mandapa that remains. The structures and elements that have survived are famed for their intricate artwork, iconography, and themes, including erotic kama and mithuna scenes. Also called the Surya Devalaya, it is a classic illustration of the Odisha style of Architecture or Kalinga architecture.\nThe cause of the destruction of the Konark temple is unclear and still remains a source of controversy. Theories range from natural damage to deliberate destruction of the temple in the course of being sacked several times by Muslim armies between the 15th and 17th centuries particularly by Sultan Sulaiman Karrani (Kalapahaṛ) when he invaded Orissa during 1508 . This temple was called the \"Black Pagoda\" in European sailor accounts as early as 1676 because it looked like a great tiered tower which appeared black. Similarly, the Jagannath Temple in Puri was called the \"White Pagoda\". Both temples served as important landmarks for sailors in the Bay of Bengal. The temple that exists today was partially restored by the conservation efforts of British India-era archaeological teams, But Many idols and carvings were also shifted to the British Museum during the british period. Declared a UNESCO World Heritage Site in 1984, it remains a major pilgrimage site for Hindus, who gather here every year for the Chandrabhaga Mela around the month of February.\nKonark Sun Temple is depicted on the reverse side of the Indian currency note of 10 rupees to signify its importance to Indian cultural heritage.",
+    "latitude": 19.8875,
+    "longitude": 86.09472222,
+    "status": "VERIFIED",
+    "customImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/1280px-Konarka_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "gallery": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/1280px-Konarka_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    ],
+    "documents": [
+      {
+        "id": "doc-11470626",
+        "source": {
+          "organization": "Wikipedia Foundation",
+          "title": "Open Encyclopedia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "seed-1790701129415-rai1te7vh",
+    "name": "Gateway of India",
+    "slug": "gateway-of-india",
+    "category": "Monuments",
+    "state": "Maharashtra",
+    "district": "Multiple",
+    "description": "The Gateway of India is an arch-monument, completed in 1924, on the waterfront of Mumbai, Maharashtra, India. It was erected to commemorate the landing of King George V of the United Kingdom for his coronation as the Emperor of India in December 1911 at Strand Road near Wellington Fountain. He was the first British monarch to visit India.\nThe foundation stone was laid in March 1913 for a monument built in the Indo-Saracenic style, inspired by elements of 16th-century Gujarati architecture. The final design of the monument by architect George Wittet was sanctioned only in 1914, and construction was completed in 1924. The structure is a memorial arch made of basalt, which is 26 metres (85 feet) high, with an architectural resemblance to a triumphial arch as well as Gujarati architecture of the time.\nAfter its construction, the Gateway was used as a symbolic ceremonial entrance to India for important government personnel. The Gateway is also the monument from where the last British troops left in 1948, following Indian independence a year earlier. It is located on the waterfront at an angle, opposite the Taj Mahal Palace and Tower Hotel and overlooks the Arabian Sea. Today, the monument is synonymous with the city of Mumbai, and is among its prime tourist attractions. The Gateway is also a gathering spot for locals, street vendors, and photographers soliciting services. It holds significance for the local Jewish community as it has been the spot for Hanukkah celebrations, with the lighting of the menorah, since 2003. There are five jetties located at the Gateway, of which two are used for commercial ferry operations.\nThe Gateway was the site of a terror attack in August 2003, when there was a bomb blast in a taxi parked in front of it. Access to the gateway was restricted after people congregated at its premises following the 2008 Mumbai terrorist attacks, in which the Taj Mahal palace Hotel that was opposite the gateway and other locations in its vicinity were targeted.\nIn March 2019, the Maharashtra State Government proposed a four-step plan to develop the location for the convenience of tourists, following a direction issued by the State Governor in February 2019.",
+    "significance": "The Gateway of India is an arch-monument, completed in 1924, on the waterfront of Mumbai, Maharashtra, India. It was erected to commemorate the landing of King George V of the United Kingdom for his coronation as the Emperor of India in December 1911 at Strand Road near Wellington Fountain. He was the first British monarch to visit India.\nThe foundation stone was laid in March 1913 for a monument built in the Indo-Saracenic style, inspired by elements of 16th-century Gujarati architecture. The final design of the monument by architect George Wittet was sanctioned only in 1914, and construction was completed in 1924. The structure is a memorial arch made of basalt, which is 26 metres (85 feet) high, with an architectural resemblance to a triumphial arch as well as Gujarati architecture of the time.\nAfter its construction, the Gateway was used as a symbolic ceremonial entrance to India for important government personnel. The Gateway is also the monument from where the last British troops left in 1948, following Indian independence a year earlier. It is located on the waterfront at an angle, opposite the Taj Mahal Palace and Tower Hotel and overlooks the Arabian Sea. Today, the monument is synonymous with the city of Mumbai, and is among its prime tourist attractions. The Gateway is also a gathering spot for locals, street vendors, and photographers soliciting services. It holds significance for the local Jewish community as it has been the spot for Hanukkah celebrations, with the lighting of the menorah, since 2003. There are five jetties located at the Gateway, of which two are used for commercial ferry operations.\nThe Gateway was the site of a terror attack in August 2003, when there was a bomb blast in a taxi parked in front of it. Access to the gateway was restricted after people congregated at its premises following the 2008 Mumbai terrorist attacks, in which the Taj Mahal palace Hotel that was opposite the gateway and other locations in its vicinity were targeted.\nIn March 2019, the Maharashtra State Government proposed a four-step plan to develop the location for the convenience of tourists, following a direction issued by the State Governor in February 2019.",
+    "latitude": 18.92198263,
+    "longitude": 72.83465811,
+    "status": "VERIFIED",
+    "customImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg/1280px-Mumbai_03-2016_30_Gateway_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "gallery": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg/1280px-Mumbai_03-2016_30_Gateway_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    ],
+    "documents": [
+      {
+        "id": "doc-494788",
+        "source": {
+          "organization": "Wikipedia Foundation",
+          "title": "Open Encyclopedia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "seed-1790701130125-1sqeq1pvx",
+    "name": "Mysore Palace",
+    "slug": "mysore-palace",
+    "category": "Monuments",
+    "state": "Karnataka",
+    "district": "Multiple",
+    "description": "Mysore Palace, also known as Amba Vilas Palace, is a historic palace and royal residence located in Mysore, Karnataka, India. It served as the official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore, and was commissioned by Krishnaraja Wodeyar IV in August 1897 following the destruction of the previous structure in a fire. The design of the palace is attributed to Henry Irwin, a British architect who had earlier designed the Madras High Court, and Edwin Wolleston Fritchley, who would later design the Lalitha Mahal. Construction of the current structure began in 1897 and was completed in 1912. It is one of the largest palaces in India, and is a prominent example of Indo-Saracenic architecture, combining Indo-Islamic, Rajput, Hoysala and Gothic architectural styles.\nThe land on which the palace now stands was recorded as the site of a small fort in the late 14th century. The first palace to occupy the location was built in the 17th century during the reign of Kanthirava Narasaraja I, and was destroyed and rebuilt multiple times. Since the early 19th century, the Mysore Dasara festival has been annually held on the palace grounds, culminating in an elephant procession on Vijayadashami. In 1998, the Karnataka state government enacted the Mysore Palace Acquisition Act, acquiring ownership of the palace from the Wadiyar family; the act was subsequently challenged in court, and is the subject of an ongoing legal dispute.\nThe main palace houses a public museum alongside the living quarters of Yaduveer Krishnadatta Chamaraja Wadiyar, the current ceremonial head of the Wadiyar dynasty. In addition to the palace, the overall complex encompasses multiple gardens, several Hindu temples (some of which predate the current palace itself), and the old walls of the original fort. As of 2024, Mysore Palace is one of the most famous tourist attractions in India, with more than four million annual visitors.",
+    "significance": "Mysore Palace, also known as Amba Vilas Palace, is a historic palace and royal residence located in Mysore, Karnataka, India. It served as the official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore, and was commissioned by Krishnaraja Wodeyar IV in August 1897 following the destruction of the previous structure in a fire. The design of the palace is attributed to Henry Irwin, a British architect who had earlier designed the Madras High Court, and Edwin Wolleston Fritchley, who would later design the Lalitha Mahal. Construction of the current structure began in 1897 and was completed in 1912. It is one of the largest palaces in India, and is a prominent example of Indo-Saracenic architecture, combining Indo-Islamic, Rajput, Hoysala and Gothic architectural styles.\nThe land on which the palace now stands was recorded as the site of a small fort in the late 14th century. The first palace to occupy the location was built in the 17th century during the reign of Kanthirava Narasaraja I, and was destroyed and rebuilt multiple times. Since the early 19th century, the Mysore Dasara festival has been annually held on the palace grounds, culminating in an elephant procession on Vijayadashami. In 1998, the Karnataka state government enacted the Mysore Palace Acquisition Act, acquiring ownership of the palace from the Wadiyar family; the act was subsequently challenged in court, and is the subject of an ongoing legal dispute.\nThe main palace houses a public museum alongside the living quarters of Yaduveer Krishnadatta Chamaraja Wadiyar, the current ceremonial head of the Wadiyar dynasty. In addition to the palace, the overall complex encompasses multiple gardens, several Hindu temples (some of which predate the current palace itself), and the old walls of the original fort. As of 2024, Mysore Palace is one of the most famous tourist attractions in India, with more than four million annual visitors.",
+    "latitude": 12.30388889,
+    "longitude": 76.65444444,
+    "status": "VERIFIED",
+    "customImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/1280px-Mysore_Palace_Morning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "gallery": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/1280px-Mysore_Palace_Morning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    ],
+    "documents": [
+      {
+        "id": "doc-1502289",
+        "source": {
+          "organization": "Wikipedia Foundation",
+          "title": "Open Encyclopedia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "seed-1790701130951-dbl6c9bl3",
+    "name": "Diwali",
+    "slug": "diwali",
+    "category": "Festivals",
+    "state": "Pan-India",
+    "district": "Multiple",
+    "description": "Dipavali (IAST: Dīpāvalī), commonly known as Diwali (), is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance. Diwali is celebrated during the Hindu lunisolar months of Ashvin (according to the amanta tradition) and Kārtika – between around mid-October and mid-November. The celebrations generally last five or six days.\nDiwali is connected to various religious events, deities and personalities, such as being the day Rama returned to his kingdom in Ayodhya with his wife Sita and his brother Lakshmana after defeating the demon king Ravana. It is also widely associated with Lakshmi, the goddess of prosperity, and Ganesha, the god of wisdom and the remover of obstacles. Other regional traditions connect the holiday to Vishnu, Krishna, Durga, Shiva, Kali, Hanuman, Kubera, Yama, Yami, Dhanvantari, or Vishvakarman.\nPrimarily a Hindu festival, variations of Diwali are also celebrated by adherents of other faiths. The Jains observe their own Diwali which marks the final liberation of Mahavira. The Sikhs celebrate Bandi Chhor Divas to mark the release of Guru Hargobind from a Mughal prison. Newar Buddhists, unlike other Buddhists, celebrate Diwali by worshipping Lakshmi, while the Hindus of Eastern India and Bangladesh generally, celebrate Diwali by worshipping the goddess Kali.\nDuring the festival, celebrants illuminate their homes, temples and workspaces with diyas (oil lamps), candles and lanterns. Hindus, in particular, have a ritual oil bath at dawn on each day of the festival. Diwali is also marked with fireworks as well as the decoration of floors with rangoli designs and other parts of the house with jhalars. Food is a major focus, with families partaking in feasts and sharing mithai. The festival is an annual homecoming and bonding period not only for families but also for communities and associations, particularly those in urban areas, which organise activities, events, and gatherings. Many towns organise community parades and fairs, as well as music and dance performances in parks. Some Hindus, Jains, and Sikhs send Diwali greeting cards to family members near and far during the festive season, occasionally with boxes of Indian confectionery. Another aspect of the festival is remembering the ancestors.\nDiwali is also a major cultural event for the Hindu, Sikh, and Jain dia...",
+    "significance": "Dipavali (IAST: Dīpāvalī), commonly known as Diwali (), is the Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance. Diwali is celebrated during the Hindu lunisolar months of Ashvin (according to the amanta tradition) and Kārtika – between around mid-October and mid-November. The celebrations generally last five or six days.\nDiwali is connected to various religious events, deities and personalities, such as being the day Rama returned to his kingdom in Ayodhya with his wife Sita and his brother Lakshmana after defeating the demon king Ravana. It is also widely associated with Lakshmi, the goddess of prosperity, and Ganesha, the god of wisdom and the remover of obstacles. Other regional traditions connect the holiday to Vishnu, Krishna, Durga, Shiva, Kali, Hanuman, Kubera, Yama, Yami, Dhanvantari, or Vishvakarman.\nPrimarily a Hindu festival, variations of Diwali are also celebrated by adherents of other faiths. The Jains observe their own Diwali which marks the final liberation of Mahavira. The Sikhs celebrate Bandi Chhor Divas to mark the release of Guru Hargobind from a Mughal prison. Newar Buddhists, unlike other Buddhists, celebrate Diwali by worshipping Lakshmi, while the Hindus of Eastern India and Bangladesh generally, celebrate Diwali by worshipping the goddess Kali.\nDuring the festival, celebrants illuminate their homes, temples and workspaces with diyas (oil lamps), candles and lanterns. Hindus, in particular, have a ritual oil bath at dawn on each day of the festival. Diwali is also marked with fireworks as well as the decoration of floors with rangoli designs and other parts of the house with jhalars. Food is a major focus, with families partaking in feasts and sharing mithai. The festival is an annual homecoming and bonding period not only for families but also for communities and associations, particularly those in urban areas, which organise activities, events, and gatherings. Many towns organise community parades and fairs, as well as music and dance performances in parks. Some Hindus, Jains, and Sikhs send Diwali greeting cards to family members near and far during the festive season, occasionally with boxes of Indian confectionery. Another aspect of the festival is remembering the ancestors.\nDiwali is also a major cultural event for the Hindu, Sikh, and Jain dia...",
+    "latitude": 20.5937,
+    "longitude": 78.9629,
+    "status": "VERIFIED",
+    "customImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_Rangoli_of_Lights.jpg/1280px-The_Rangoli_of_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "gallery": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_Rangoli_of_Lights.jpg/1280px-The_Rangoli_of_Lights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    ],
+    "documents": [
+      {
+        "id": "doc-186177",
+        "source": {
+          "organization": "Wikipedia Foundation",
+          "title": "Open Encyclopedia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "seed-1790701131732-ib8l6uujj",
+    "name": "Holi",
+    "slug": "holi",
+    "category": "Festivals",
+    "state": "Pan-India",
+    "district": "Multiple",
+    "description": "Holi (IPA: ['hoːli:, hoːɭiː]) is a major Hindu festival of colours, love and spring. It celebrates the love between the deities Radha and Krishna.\nAdditionally, the day signifies the triumph of good over evil, as it commemorates the victory of Vishnu as Narasimha over Hiranyakashipu. \nHoli originated in ancient Indian subcontinent and is predominantly celebrated in the Indian subcontinent, but has also spread to other regions of Asia and parts of the Western world.\nHoli also celebrates the arrival of spring in India and Nepal, the end of winter, and the blossoming of love. It is also an invocation for a good spring harvest season. It lasts for a night and a day, starting on the evening of the Purnima (full moon day) falling on the Hindu calendar month of Phalguna, which falls around the middle of March in the Gregorian calendar.",
+    "significance": "Holi (IPA: ['hoːli:, hoːɭiː]) is a major Hindu festival of colours, love and spring. It celebrates the love between the deities Radha and Krishna.\nAdditionally, the day signifies the triumph of good over evil, as it commemorates the victory of Vishnu as Narasimha over Hiranyakashipu. \nHoli originated in ancient Indian subcontinent and is predominantly celebrated in the Indian subcontinent, but has also spread to other regions of Asia and parts of the Western world.\nHoli also celebrates the arrival of spring in India and Nepal, the end of winter, and the blossoming of love. It is also an invocation for a good spring harvest season. It lasts for a night and a day, starting on the evening of the Purnima (full moon day) falling on the Hindu calendar month of Phalguna, which falls around the middle of March in the Gregorian calendar.",
+    "latitude": 20.5937,
+    "longitude": 78.9629,
+    "status": "VERIFIED",
+    "customImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1000&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "documents": [
+      {
+        "id": "doc-489575",
+        "source": {
+          "organization": "Wikipedia Foundation",
+          "title": "Open Encyclopedia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "seed-1790701132327-ubch9eavp",
+    "name": "Durga Puja",
+    "slug": "durga-puja",
+    "category": "Festivals",
+    "state": "West Bengal",
+    "district": "Multiple",
+    "description": "Durga Puja (ISO: Durgā Pūjā, Bengali pronunciation: [d̪uɾɡapud͡ʒa] ), also known as Durgotsava or Sharadotsava, is a major Hindu festival honouring the goddess Durga and commemorating her victory over Mahishasura. It is the biggest festival among Assamese, Bengali Hindus, Odias living in India and Bangladesh, and is widely observed by Bhojpuriyas and Maithils in India and Nepal. In 2021, Durga Puja in Kolkata was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity.\nThe festival is observed in the Indian calendar in the month of Ashvin (September–October) on the Hindu luni-solar calendar.  It lasts ten days, with the final five being most prominent. Even though Durga Puja and Navaratri are both dedicated to the Hindu goddess Durga and are observed simultaneously, they are not the same festival.\nThe puja is performed in homes and public spaces with temporary structures (known as pandals), religious recitations, cultural performances, visiting, feasting, and processions; it is central to the Shaktism tradition.\nIn Shakta theology and Puranic scriptures, particularly the Devi Mahatmya, the festival marks Durga's annihilation of the demon Mahishasura, signifying the preservation of Dharma and the cosmic supremacy of the feminine divine Shakti. The ritual cycles also incorporate seasonal and vegetative elements, notably through the consecration of Navapatrika. Durga Puja coincides with Navaratri and Dussehra celebrations observed by other traditions of Hinduism.\nAlongside Durga, devotees commonly venerate Lakshmi, Saraswati, Ganesha and Kartikeya in West Bengal. Major public celebrations run from Mahalaya to Vijayadashami and conclude with immersion of the images; practices vary by region. \nDurga Puja is an old tradition with medieval textual references on Shaktism and detailed manuals from at least the 14th century; elite and community forms expanded under early modern and colonial patronage.\n\n",
+    "significance": "Durga Puja (ISO: Durgā Pūjā, Bengali pronunciation: [d̪uɾɡapud͡ʒa] ), also known as Durgotsava or Sharadotsava, is a major Hindu festival honouring the goddess Durga and commemorating her victory over Mahishasura. It is the biggest festival among Assamese, Bengali Hindus, Odias living in India and Bangladesh, and is widely observed by Bhojpuriyas and Maithils in India and Nepal. In 2021, Durga Puja in Kolkata was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity.\nThe festival is observed in the Indian calendar in the month of Ashvin (September–October) on the Hindu luni-solar calendar.  It lasts ten days, with the final five being most prominent. Even though Durga Puja and Navaratri are both dedicated to the Hindu goddess Durga and are observed simultaneously, they are not the same festival.\nThe puja is performed in homes and public spaces with temporary structures (known as pandals), religious recitations, cultural performances, visiting, feasting, and processions; it is central to the Shaktism tradition.\nIn Shakta theology and Puranic scriptures, particularly the Devi Mahatmya, the festival marks Durga's annihilation of the demon Mahishasura, signifying the preservation of Dharma and the cosmic supremacy of the feminine divine Shakti. The ritual cycles also incorporate seasonal and vegetative elements, notably through the consecration of Navapatrika. Durga Puja coincides with Navaratri and Dussehra celebrations observed by other traditions of Hinduism.\nAlongside Durga, devotees commonly venerate Lakshmi, Saraswati, Ganesha and Kartikeya in West Bengal. Major public celebrations run from Mahalaya to Vijayadashami and conclude with immersion of the images; practices vary by region. \nDurga Puja is an old tradition with medieval textual references on Shaktism and detailed manuals from at least the 14th century; elite and community forms expanded under early modern and colonial patronage.\n\n",
+    "latitude": 20.5937,
+    "longitude": 78.9629,
+    "status": "VERIFIED",
+    "customImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A8_%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A7%8E%E0%A6%B8%E0%A6%AC_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE.jpg/1280px-%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A8_%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A7%8E%E0%A6%B8%E0%A6%AC_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "gallery": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A8_%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A7%8E%E0%A6%B8%E0%A6%AC_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE.jpg/1280px-%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A8_%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A7%8E%E0%A6%B8%E0%A6%AC_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    ],
+    "documents": [
+      {
+        "id": "doc-1151889",
+        "source": {
+          "organization": "Wikipedia Foundation",
+          "title": "Open Encyclopedia"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Vinayak Yadav",
+    "category": "festival",
+    "state": "Madhya Pradesh",
+    "district": "West Nimar",
+    "description": "gfvx fg xfg",
+    "significance": "gfvx fg xfg",
+    "latitude": 0,
+    "longitude": 0,
+    "customImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=2071&auto=format&fit=crop",
+    "gallery": [],
+    "id": "custom-1790700839509",
+    "slug": "vinayak-yadav",
+    "status": "VERIFIED"
+  }
+]
