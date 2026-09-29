@@ -1,6 +1,5 @@
 import { Navbar } from "@/components/navbar";
-import dynamic from "next/dynamic";
-const MapClient = dynamic(() => import("./map-client"), { ssr: false });
+import MapWrapper from "./map-wrapper";
 import { getCustomSites } from "@/lib/data-store";
 
 const heritageSites = [
@@ -70,7 +69,7 @@ export default async function MapPage() {
   return (
     <div className="flex flex-col h-screen overflow-hidden">
       <Navbar />
-      <MapClient sites={allSites} />
+      <MapWrapper sites={allSites} />
     </div>
   );
 }
