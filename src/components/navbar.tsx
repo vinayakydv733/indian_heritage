@@ -15,9 +15,7 @@ export function Navbar() {
       <div className="container mx-auto px-4 md:px-8 flex h-20 items-center justify-between">
         <div className="flex gap-6 md:gap-10 items-center">
           <Link href="/" className="flex items-center space-x-2 mr-6">
-            <span className="font-serif font-bold text-3xl text-primary inline-block tracking-tight">
-              Dharohar
-            </span>
+            <img src="/dharohar.png" alt="Dharohar Logo" className="h-12 w-auto" />
           </Link>
           <NavigationMenu className="hidden md:flex">
             <NavigationMenuList className="gap-2">
