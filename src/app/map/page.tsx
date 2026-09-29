@@ -1,5 +1,6 @@
 import { Navbar } from "@/components/navbar";
-import MapClient from "./map-client";
+import dynamic from "next/dynamic";
+const MapClient = dynamic(() => import("./map-client"), { ssr: false });
 import { getCustomSites } from "@/lib/data-store";
 
 const heritageSites = [
