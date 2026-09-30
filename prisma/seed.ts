@@ -81,7 +81,7 @@ async function main() {
         (gen_random_uuid()::text, ${doc.id}, 1, ${record.short_description}, ${dummyVector}::vector);
       `
       count++
-    } catch (e) {
+    } catch (e: any) {
       console.warn(`Skipped ${record.name} - ${e.message}`)
     }
   }
