@@ -1,54 +1,12 @@
+export const dynamic = "force-dynamic";
+
+import Image from "next/image";
 import { Navbar } from "@/components/navbar";
-import Link from "next/link";
 import { MapPin } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
-
+import { CategoryFilter } from "./category-filter";
+import Link from "next/link";
 import { getCustomSites } from "@/lib/data-store";
-
-const heritageSites = [
-  {
-    name: "Garba of Gujarat",
-    slug: "garba-of-gujarat",
-    category: "Dance & Music",
-    state: "Gujarat",
-    image: "/assets/images/garba.jpg"
-  },
-  {
-    name: "Khajuraho Group of Monuments",
-    slug: "khajuraho-monuments",
-    category: "Monuments",
-    state: "Madhya Pradesh",
-    image: "https://images.unsplash.com/photo-1598890777032-bde835ba27c2?q=80&w=800&auto=format&fit=crop"
-  },
-  {
-    name: "Taj Mahal",
-    slug: "taj-mahal",
-    category: "Monuments",
-    state: "Uttar Pradesh",
-    image: "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=800&auto=format&fit=crop"
-  },
-  {
-    name: "Hampi",
-    slug: "hampi",
-    category: "Monuments",
-    state: "Karnataka",
-    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=800&auto=format&fit=crop"
-  },
-  {
-    name: "Kathakali Dance",
-    slug: "kathakali",
-    category: "Dance & Music",
-    state: "Kerala",
-    image: "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=800&auto=format&fit=crop"
-  },
-  {
-    name: "Gond Art",
-    slug: "gond-art",
-    category: "Arts & Crafts",
-    state: "Madhya Pradesh",
-    image: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=800&auto=format&fit=crop"
-  }
-];
 
 export default async function ExplorePage({ searchParams }: { searchParams: Promise<{ category?: string }> }) {
   const resolvedParams = await searchParams;
@@ -62,8 +20,7 @@ export default async function ExplorePage({ searchParams }: { searchParams: Prom
       category: s.category,
       state: s.state,
       image: s.customImage
-    })),
-    ...heritageSites
+    }))
   ];
 
   const getStandardCategory = (cat: string) => {
@@ -92,15 +49,7 @@ export default async function ExplorePage({ searchParams }: { searchParams: Prom
           </p>
         </div>
 
-        <div className="flex flex-wrap justify-center gap-3 mb-12">
-          {categories.map(cat => (
-            <Link key={cat} href={`/explore${cat === "All" ? "" : `?category=${encodeURIComponent(cat)}`}`}>
-              <Badge variant={currentCategory === cat ? "default" : "secondary"} className="px-5 py-2 text-sm cursor-pointer hover:bg-primary/80 hover:text-primary-foreground transition-all">
-                {cat}
-              </Badge>
-            </Link>
-          ))}
-        </div>
+        <CategoryFilter currentCategory={currentCategory} />
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {filteredSites.map((site) => (
@@ -108,13 +57,17 @@ export default async function ExplorePage({ searchParams }: { searchParams: Prom
               <div className="bg-card border rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300">
                 <div className="relative h-64 overflow-hidden">
                   <div className="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition-colors z-10"></div>
-                  <div 
-                    className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110" 
-                    style={{ backgroundImage: `url(${site.image})` }}
-                  ></div>
+                  <Image 
+                    src={site.image}
+                    alt={site.name}
+                    fill
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                    className="object-cover transition-transform duration-700 group-hover:scale-110"
+                    loading="lazy"
+                  />
                   <div className="absolute top-4 left-4 z-20">
                     <Badge className="bg-primary/90 hover:bg-primary text-primary-foreground backdrop-blur-sm border-none shadow-md">
-                      {site.category}
+                      {getStandardCategory(site.category)}
                     </Badge>
                   </div>
                 </div>
