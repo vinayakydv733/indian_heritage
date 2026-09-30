@@ -26,9 +26,19 @@ const customIcon = new L.Icon({
 export default function MapClient({ sites }: { sites: any[] }) {
   const [activeCategory, setActiveCategory] = useState("All");
 
+  const getStandardCategory = (cat: string) => {
+    if (!cat) return "Other";
+    const lower = cat.toLowerCase();
+    if (lower.includes('monument') || lower.includes('place')) return 'Monuments';
+    if (lower.includes('festival')) return 'Festivals';
+    if (lower.includes('dance') || lower.includes('music') || lower.includes('tradition')) return 'Dance & Music';
+    if (lower.includes('art') || lower.includes('craft')) return 'Arts & Crafts';
+    return cat;
+  };
+
   const filteredSites = activeCategory === "All" 
     ? sites 
-    : sites.filter(s => s.category === activeCategory);
+    : sites.filter(s => getStandardCategory(s.category) === activeCategory);
 
   return (
     <div className="flex-1 relative flex">

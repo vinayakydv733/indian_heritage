@@ -66,9 +66,18 @@ export default async function ExplorePage({ searchParams }: { searchParams: Prom
     ...heritageSites
   ];
 
+  const getStandardCategory = (cat: string) => {
+    const lower = cat.toLowerCase();
+    if (lower.includes('monument') || lower.includes('place')) return 'Monuments';
+    if (lower.includes('festival')) return 'Festivals';
+    if (lower.includes('dance') || lower.includes('music') || lower.includes('tradition')) return 'Dance & Music';
+    if (lower.includes('art') || lower.includes('craft')) return 'Arts & Crafts';
+    return cat;
+  };
+
   const filteredSites = currentCategory === "All" 
     ? allSites 
-    : allSites.filter(site => site.category === currentCategory);
+    : allSites.filter(site => getStandardCategory(site.category) === currentCategory);
 
   const categories = ["All", "Monuments", "Festivals", "Dance & Music", "Arts & Crafts"];
 
